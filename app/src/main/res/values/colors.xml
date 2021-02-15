@@ -2,6 +2,10 @@
 <resources>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
+    <color name="flixster_blue">#FF171fc1</color>
+    <color name="flixster_blue25">#3F171fc1</color>
+    <color name="flixster_yellow">#FFfff33e</color>
+    <color name="flixster_yellow25">#3Ffff33e</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
